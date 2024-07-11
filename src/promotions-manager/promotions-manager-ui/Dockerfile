@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 
 RUN apt-get update -y && apt-get install -y curl; \
     curl -sL https://deb.nodesource.com/setup_10.x | bash -; \
