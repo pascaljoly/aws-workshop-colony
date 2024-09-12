@@ -11,10 +11,10 @@
   "author": "Alex Azarh",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.3",
     "cookie-parser": "^1.4.3",
     "debug": "^4.1.1",
-    "express": "^4.16.4",
+    "express": "^4.21.0",
     "express-session": "^1.15.6",
     "mongodb": "^3.5.4",
     "morgan": "^1.9.1",
