@@ -10,9 +10,9 @@
   "author": "Alex Az @ QualiLabs",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.13.5",
     "chai": "^4.2.0",
-    "chai-http": "^4.2.1",
+    "chai-http": "^5.1.2",
     "mocha": "^5.2.0",
     "mocha-junit-reporter": "^1.18.0"
   }
